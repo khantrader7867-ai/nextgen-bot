@@ -1,0 +1,15 @@
+{
+  "name": "nextgen-bot-render-koyeb",
+  "version": "1.0.0",
+  "description": "24/7 Standalone NEXT GEN Telegram Bot for Render.com and Koyeb.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
